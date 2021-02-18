@@ -61,7 +61,7 @@ public class DigitalleagueRuTests extends TestBase {
     @Test
     @DisplayName("Отправка обратной связи")
     @Feature("Свяжитесь с нами")
-    @Tags({@Tag("Web"), @Tag("regression")})
+    @Tags({@Tag("Web"), @Tag("Regression")})
     @Story("User should send message")
     @Link(url = contactUrl, name = "Контакты")
     @Owner("telepnev")
