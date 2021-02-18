@@ -1,4 +1,7 @@
-## Для автотестов был использован сайт `ЛИГА ЦИФРОВОЙ ЭКОНОМИКИ`  `https://www.digitalleague.ru/`
+### Для автотестов был использован сайт
+`ЛИГА ЦИФРОВОЙ ЭКОНОМИКИ` 
+
+`https://www.digitalleague.ru/`
 
 ![Report](src/main/resources/erroMessage.png)
 
